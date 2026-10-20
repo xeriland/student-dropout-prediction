@@ -14,6 +14,14 @@ The analysis explores the tradeoff between identifying students who may drop out
 
 [Watch the 5-minute research presentation on YouTube](https://youtu.be/h4_rZCiSh_c)
 
+## Research Report
+
+**Early Signals of Student Dropout: Finding the Line Between Detection and False Alarms**
+
+[Read the full research report (PDF)](student_dropout_report.pdf)
+
+The report presents the research question, methodology, predictive modeling results, classification threshold analysis, limitations, and implications for institutional decision-making.
+
 ## Key Findings
 
 - A logistic regression model achieved approximately 83% classification accuracy on the test dataset.
