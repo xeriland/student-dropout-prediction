@@ -10,17 +10,17 @@ This project examines 4,424 student records using Python and logistic regression
 
 The analysis explores the tradeoff between identifying students who may drop out and generating false alarms that require institutional resources.
 
-## Executive Presentation
-
-[Watch the 5-minute research presentation on YouTube](https://youtu.be/h4_rZCiSh_c)
-
 ## Research Report
 
 **Early Signals of Student Dropout: Finding the Line Between Detection and False Alarms**
 
-[Read the full research report (PDF)](student_dropout_report.pdf)
+[Read the full research report (PDF)](student_dropout_research_report.pdf)
 
 The report presents the research question, methodology, predictive modeling results, classification threshold analysis, limitations, and implications for institutional decision-making.
+
+## Executive Presentation
+
+[Watch the 5-minute research presentation on YouTube](https://youtu.be/h4_rZCiSh_c)
 
 ## Key Findings
 
