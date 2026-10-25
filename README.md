@@ -56,6 +56,14 @@ The findings support further evaluation of early-warning systems through small-s
 
 A central distinction is that predicting student dropout does not establish that an intervention will prevent it.
 
+## License
+
+The Python code in this repository is licensed under the MIT License.
+
+The research report is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+The original dataset is provided by the UCI Machine Learning Repository and remains subject to its original licensing terms.
+
 ## Author
 
 Timothy J. Xeriland
