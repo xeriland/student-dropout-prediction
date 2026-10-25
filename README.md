@@ -6,7 +6,7 @@
 
 Can universities identify students at risk of dropping out using information collected during their first semester? More importantly, can those predictions help institutions make better decisions about student support?
 
-This project examines 4,424 student records using Python and logistic regression, focusing on three academic indicators: curricular units completed, average grades, and evaluations.
+This project examines 4,424 student records, using exploratory analysis and logistic regression to investigate three first-semester academic indicators: curricular units approved, average grades, and evaluations. The predictive model uses 3,630 records with known graduation or dropout outcomes.
 
 The analysis explores the tradeoff between identifying students who may drop out and generating false alarms that require institutional resources.
 
@@ -27,6 +27,7 @@ The report presents the research question, methodology, predictive modeling resu
 - A logistic regression model achieved approximately 83% classification accuracy on the test dataset.
 - Lowering the classification threshold from 50% to 40% identified 16 additional students who eventually dropped out, while generating 19 additional false positives.
 - Predictive accuracy alone is insufficient to establish whether an intervention improves student retention.
+- The 40% threshold was explored using the test data and therefore requires independent validation before being recommended for institutional use.
 
 ## Methods and Tools
 
@@ -36,9 +37,18 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, exploratory data analy
 
 [View the complete Python analysis](student_dropout_prediction.ipynb)
 
+## Reproducing the Analysis
+
+1. Download the dataset from the [UCI Machine Learning Repository](https://doi.org/10.24432/C5MC89).
+2. Open `student_dropout_prediction.ipynb` in Jupyter Notebook or Google Colab.
+3. Install the required Python libraries: pandas, NumPy, Matplotlib, Seaborn, and scikit-learn.
+4. Update the dataset file path if necessary, then run the notebook from beginning to end.
+
+The analysis uses an 80/20 stratified training/test split with a random seed of 42. Classification thresholds of 50%, 40%, 30%, and 20% are examined.
+
 ## Data Source
 
-UCI Machine Learning Repository — *Predict Students' Dropout and Academic Success*.
+[Predict Students' Dropout and Academic Success — UCI Machine Learning Repository](https://doi.org/10.24432/C5MC89)
 
 ## Research Implications
 
