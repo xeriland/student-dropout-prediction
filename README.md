@@ -12,9 +12,13 @@ The analysis explores the tradeoff between identifying students who may drop out
 
 ## Research Report
 
-**Early Signals of Student Dropout: Finding the Line Between Detection and False Alarms**
+Xeriland, T. J. (2026). Early Signals of Student Dropout: Finding the Line Between Detection and False Alarms. Research Report, Version 1.0. Zenodo.
 
-[Read the full research report (PDF)](student_dropout_research_report.pdf)
+DOI: https://doi.org/10.5281/zenodo.23769794
+
+View the published research report on Zenodo
+
+[Read the research report directly on GitHub (PDF)](student_dropout_research_report.pdf)
 
 The report presents the research question, methodology, predictive modeling results, classification threshold analysis, limitations, and implications for institutional decision-making.
 
