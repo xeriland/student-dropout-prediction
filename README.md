@@ -10,19 +10,22 @@ This project examines 4,424 student records, using exploratory analysis and logi
 
 The analysis explores the tradeoff between identifying students who may drop out and generating false alarms that require institutional resources.
 
-## Research Report
+## Published Research Report
 
-Xeriland, T. J. (2026). Early Signals of Student Dropout: Finding the Line Between Detection and False Alarms. Research Report, Version 1.0. Zenodo.
+Xeriland, T. J. (2026). Early Signals of Student Dropout: Finding the Line Between Detection and False Alarms (Research Report, Version 1.0). Zenodo.
 
 DOI: https://doi.org/10.5281/zenodo.23769794
 
-View the published research report on Zenodo
+Read the published research report on Zenodo
 
-[Read the executive summary on GitHub (PDF)](student_dropout_research_report.pdf)
+The full research report presents the methodology, statistical findings, classification threshold analysis, limitations, and implications for institutional decision-making.
 
-The report presents the research question, methodology, predictive modeling results, classification threshold analysis, limitations, and implications for institutional decision-making.
+## Executive Summary & Presentation
 
-## Executive Presentation
+For a shorter overview of the project, the following resources highlight the research question, analytical approach, key findings, and practical implications.
+
+[Read the executive summary (PDF)](student_dropout_research_report.pdf)
+
 
 [Watch the 5-minute research presentation on YouTube](https://youtu.be/h4_rZCiSh_c)
 
