@@ -18,7 +18,7 @@ DOI: https://doi.org/10.5281/zenodo.23769794
 
 View the published research report on Zenodo
 
-[Read the research report directly on GitHub (PDF)](student_dropout_research_report.pdf)
+[Read the executive summary on GitHub (PDF)](student_dropout_research_report.pdf)
 
 The report presents the research question, methodology, predictive modeling results, classification threshold analysis, limitations, and implications for institutional decision-making.
 
